@@ -1,0 +1,6 @@
+#include 
+start
+begin{
+print （hello word）
+}
+end
