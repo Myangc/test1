@@ -1,6 +1,4 @@
-#include 
-start
-begin{
-print （hello word）
-}
-end
+#include <stdio.h>
+   int main() {
+	    printf("Hello World !");
+    }
